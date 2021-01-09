@@ -1,3 +1,3 @@
-dash 
+dash==1.16.3
 pandas 
 gunicorn 
