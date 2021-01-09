@@ -211,4 +211,4 @@ def update_city_pop_pyramid(radio_select, clickData):
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server()
